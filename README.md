@@ -1,7 +1,7 @@
 <h1 align="left">I'm Alex</h1>
 <h3 align="left">I'm a software engineer of the fullstack kind! I'm also known for my music as 7 Minutes Dead.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7minutesdead-git" alt="7minutesdead-git" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7minutesdead-git&theme=onedark&rank=SECRET,SSS,SS,S,AAA,A,B" alt="7minutesdead-git" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/7minutesdead" target="blank"><img src="https://img.shields.io/twitter/follow/7minutesdead?logo=twitter&style=for-the-badge" alt="7minutesdead" /></a> </p>
 
