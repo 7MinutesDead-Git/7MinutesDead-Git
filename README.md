@@ -1,5 +1,5 @@
-<h1 align="center">I'm Alex</h1>
-<h3 align="center">I'm a software engineer of the fullstack kind! I'm also known for my music as 7 Minutes Dead.</h3>
+<h1 align="left">I'm Alex</h1>
+<h3 align="left">I'm a software engineer of the fullstack kind! I'm also known for my music as 7 Minutes Dead.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7minutesdead-git" alt="7minutesdead-git" /></a> </p>
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/7minutesdead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7minutesdead" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexgulikers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexgulikers" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7minutesdead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7minutesdead" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13627106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7minutesdead" height="30" width="40" /></a>
 <a href="https://discord.gg/7 Minutes Dead#0863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7 Minutes Dead#0863" height="30" width="40" /></a>
 </p>
 
