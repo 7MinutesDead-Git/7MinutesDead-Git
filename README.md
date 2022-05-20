@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/7minutesdead" target="blank"><img src="https://img.shields.io/twitter/follow/7minutesdead?logo=twitter&style=for-the-badge" alt="7minutesdead" /></a> </p>
 
-- 🔭 I’m currently working on [Drunkify](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes.
+- 🔭 For personal projects, I’m currently working on [Drunkify](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes.
 
 - Reach out to me at [https://7minutes.dev](https://7minutes.dev)
 
