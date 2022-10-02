@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7minutesdead-git&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true&hide_border=true&langs_count=10&hide=Jupyter%20Notebook,Batchfile,C,C%23" alt="7minutesdead-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7minutesdead-git&show_icons=true&locale=en&theme=onedark&hide_border=true&hide=issues,contribs" alt="7minutesdead-git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7minutesdead-git&theme=onedark&hide_border=true" alt="7minutesdead-git" /></p>
