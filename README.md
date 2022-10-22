@@ -7,7 +7,7 @@
 
 - 🔭 For personal projects, I’ve built a fancy app to control the RGB LED lights in my house from anywhere, using [React for the frontend](https://github.com/7MinutesDead-Git/govee-react) and [Node for the backend](https://github.com/7MinutesDead-Git/govee-server), along with websockets for live updates to the UI for every connected client. 
   
-- I've also built [GimmeDrink](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes, because my partner asked me to. There's some easter egg functionality hidden in this site as well. Check the [repo here for spoilers](https://github.com/7MinutesDead-Git/Drunkify).
+- I've also built [gimme-drink](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes, because my partner asked me to. There's some easter egg functionality hidden in this site as well. Check the [repo here for spoilers](https://github.com/7MinutesDead-Git/Drunkify).
 
 - Reach out to me at [https://7minutes.dev](https://7minutes.dev)
 
