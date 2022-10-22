@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/7minutesdead" target="blank"><img src="https://img.shields.io/twitter/follow/7minutesdead?logo=twitter&style=for-the-badge" alt="7minutesdead" /></a> </p>
 
-- 🔭 For personal projects, I’m currently working on [GimmeDrink](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes.
+- 🔭 For personal projects, I’m building on a fancy app to control the RGB LED lights in my house from anywhere, using [React for the frontend](https://github.com/7MinutesDead-Git/govee-react) and [Node for the backend](https://github.com/7MinutesDead-Git/govee-server), along with websockets for live updates to the UI for every connected client. 
+  
+- I've also built [GimmeDrink](https://gimmedrink.netlify.app), a web app for no-nonsense, responsive design for looking up drink recipes, because my partner asked me to. There's some easter egg functionality hidden in this site as well. Check the [repo here for spoilers](https://github.com/7MinutesDead-Git/Drunkify).
 
 - Reach out to me at [https://7minutes.dev](https://7minutes.dev)
 
