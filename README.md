@@ -1,5 +1,4 @@
 <h1 align="left">I'm Alex</h1>
-<h3 align="left">I'm a software engineer building web apps! Who isn't!? I'm also known for my music as 7 Minutes Dead.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7minutesdead-git&theme=nord&no-frame=true&margin-w=45&no-bg=true&rank=SECRET,SSS,SS,S,AAA,A,B" alt="7minutesdead-git" /></a> </p>
 
