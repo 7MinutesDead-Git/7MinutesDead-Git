@@ -11,7 +11,6 @@
 <a href="https://twitter.com/7minutesdead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7minutesdead" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexgulikers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexgulikers" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13627106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7minutesdead" height="30" width="40" /></a>
-<a href="https://discord.gg/7 Minutes Dead#0863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7 Minutes Dead#0863" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I love looking at stats, even if they're relatively meaningless haha</h3>
